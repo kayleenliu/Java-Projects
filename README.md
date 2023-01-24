@@ -1,4 +1,4 @@
-# Java-Projects
+# Movie-Management-System
 August 6, 2021
 
 @auther: Scott Normore, Christian Lay, Gao Liu, Kin Shing Chong
